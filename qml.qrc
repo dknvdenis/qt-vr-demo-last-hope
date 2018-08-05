@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Vr.qml</file>
+        <file>SceneSettings.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>VrSettings.qml</file>
+    </qresource>
+</RCC>

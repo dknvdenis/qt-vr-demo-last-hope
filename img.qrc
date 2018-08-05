@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ash_uvgrid04.jpg</file>
+        <file>Equirectangular-projection.jpg</file>
+    </qresource>
+</RCC>
